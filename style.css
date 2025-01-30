@@ -120,7 +120,7 @@ margin: 10px 0;
 #home-info .info-img {
     float: left;
     width: 50%;
-    background-image: url(./photo-1.jpg) no-repeat;
+    background-image: url(./photo-1.jpg);
     min-height: 100%;
 }
 #home-info .info-content {
