@@ -57,8 +57,11 @@ margin: 10px 0;
     color: #333;
 }
 .bg-primary {
-    background: #333;
-    color: #f7c08a;
+    background:  #f7c08a;
+    color:#333 ;
+}
+.clr {
+    clear: both;
 }
 
 /* Navbar */
@@ -133,4 +136,25 @@ margin: 10px 0;
 }
 #home-info .info-content p {
     padding-bottom: 30px;
+}
+
+/* features section  */
+
+.box{
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    text-align: center;
+}
+.box img {
+    margin-bottom: 10px;
+}
+
+/* main footer  */
+
+#main-footer {
+    background: #444;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
 }
