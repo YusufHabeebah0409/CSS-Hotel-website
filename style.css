@@ -275,15 +275,12 @@ p {
 /* FAQ  */
 #faq .faq {
   padding: 20px;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
   border-radius: 5px;
 }
 
-#faq .faq img {
-  width: 100px;
-  float: left;
-  margin-right: 20px;
-  border-radius: 50%;
+#faq .faq h2 {
+  padding-bottom: 5px;
 }
 
 /* main footer  */
