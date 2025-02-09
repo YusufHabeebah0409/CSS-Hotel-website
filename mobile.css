@@ -12,6 +12,15 @@
     border-bottom: #444 dotted 1px ;
 }
 
+/* showcase */
+#showcase {
+    height: 100%;
+}
+#showcase .showcase-content {
+padding-bottom: 30px;
+    padding-top: 170px;
+}
+
 /* home info  */
 #home-info .info-img{
     display: none;
@@ -23,5 +32,22 @@
 /* Cards */
 .box{
   float: none;
-  width: 100%;  
+  width: 100%;   
+}
+
+/* about */
+#about-info .info-right, #about-info .info-left {
+    float: none;
+    width: 100%;
+}
+#about-info .info-right{
+    margin-top:30px ; 
+}
+.l-heading{
+    text-align: center;
+}
+
+/* contact */
+#contact-info .box {
+    border-bottom: #444 dotted 1px;
 }
